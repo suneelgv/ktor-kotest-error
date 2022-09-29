@@ -1,0 +1,55 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+.idea.xml
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# other
+out
+bin
+bak
+.metadata
+*.class
+*.bak
+tmp/
+.tmp
+.myeclipse/
+
+velocity.log
+velocity.log.1
+
+*.pyc
+
+#local log dir
+${sys:logs.dir}/
+
+scripts/resources/output/*.java
+scripts/resources/output/*.groovy
+
+#Gradle
+.gradle
+build
+buildSrc/*
+classes
+out
+gradlew.bat
+default
+.scannerwork/
+*/.scannerwork/
+/.scannerwork/*
+/logs/*
+Checkmarx/*
+
+*.txt
